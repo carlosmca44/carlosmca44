@@ -15,7 +15,8 @@ Me
 ### My Skills
 
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next-dot-js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-MaterialUi-informational?style=flat&logo=material-ui&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -24,8 +25,6 @@ Me
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-MaterialUi-informational?style=flat&logo=material-ui&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 
 <br>
