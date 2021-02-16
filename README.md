@@ -14,7 +14,8 @@ Me
 
 ### My Skills
 
-![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-MaterialUi-informational?style=flat&logo=material-ui&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=4AB197)
 
