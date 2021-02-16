@@ -4,7 +4,8 @@ Me
 
 ### Pinned Repositories
 
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=carlosmca44&repo=useful_python_modules)](https://github.com/carlosmca44/useful_python_modules)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=carlosmca44&repo=cv_template)](https://github.com/carlosmca44/cv_template)
 
 ### My Github Stats
 
