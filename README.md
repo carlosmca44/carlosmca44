@@ -1,6 +1,6 @@
 ### Hi!
 
-I am a 4th year student of the Computer Science Engineering degree at the University of Computer Sciences, in Havana, Cuba. I have more than 2 years of experience in web development, working especially in the front-end area and recently in back-end. Always in search of required solutions, I keep myself in a constant learning process, open to learning new technologies.
+I am a 5th year student of the Computer Science Engineering degree at the University of Computer Sciences, in Havana, Cuba. I have more than 2 years of experience in web development, working especially in the front-end area and in back-end. Always in search of required solutions, I keep myself in a constant learning process, open to learning new technologies.
 
 
 Email: carlosmca4424@gmail.com
